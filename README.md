@@ -1,3 +1,5 @@
+![giphy-app-screen](https://user-images.githubusercontent.com/8358989/139292486-0f5c99b8-ebbd-481a-a69e-bfc5d685843a.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
